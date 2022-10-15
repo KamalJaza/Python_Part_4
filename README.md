@@ -12,6 +12,10 @@
 - This method does not include the last element of the range passed in it.
 - iloc() does not accept the boolean data unlike loc().
 
+## Pandas DataFrame
+- DataFrame is a 2 dimensional data structure, like a 2 dimensional array, or a table with rows and columns
+- DataFrames are similar to SQL tables or the spreadsheets that you work with in Excel or Calc. In many cases, DataFrames are faster, easier to use, and more powerful than tables or spreadsheets because they’re an integral part of the Python and NumPy ecosystems.
+- DataFrames are widely used in data science, machine learning, scientific computing, and many other data-intensive fields.
 
 ## Data Preparation and Exploration
 - Call the Dataset using data.read_csv()
