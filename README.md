@@ -28,6 +28,7 @@ Object series have one data dimension. Do not have a column name because it only
 - Show the data fro the top ot from the bottom using data.head() or data.tail()
 - Display all the information about dataset using data,info()
 - Check missing value and count it using data.isnull().sum()
+
 ## Exploration the Information in Data
 - The number of rows using data.shape()
 - The name of the columns using data.column()
@@ -36,3 +37,16 @@ Object series have one data dimension. Do not have a column name because it only
 - Minimum and maximum value from the data using data.min() or data.max
 - Mode of the data using data.mode()
 - View the unique data from some column and know the count of it
+
+##Data Visualization Using Python
+Python offers several plotting libraries, namely Matplotlib, Seaborn and many other such data visualization packages with different features for creating informative, customized, and appealing plots to present data in the most simple and effective way.
+###Matplotlib
+- It is used for basic graph plotting like line charts, bar graphs, etc.
+- It mainly works with datasets and arrays.
+- Matplotlib acts productively with data arrays and frames. It regards the aces and figures as objects.
+- Matplotlib is more customizable and pairs well with Pandas and Numpy for Exploratory Data Analysis.
+###Seaborn
+- It is mainly used for statistics visualization and can perform complex visualizations with fewer commands.
+- It works with entire datasets.
+- Seaborn is considerably more organized and functional than Matplotlib and treats the entire dataset as a solitary unit.
+- Seaborn has more inbuilt themes and is mainly used for statistical analysis.
