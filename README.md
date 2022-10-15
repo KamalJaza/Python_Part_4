@@ -2,7 +2,7 @@
 # Pandas
 ## loc() and iloc()
 - loc() and iloc() are essential Pandas methods used for filtering, selecting, and manipulating data. They are quick, fast, easy to read, and sometimes interchangeable.
-- loc() and iloc() method are used to overcome inconsistencies
+- loc() and iloc() method are used to overcome inconsistencies in calling data.
 ### loc() function
 - The loc() function is label based (explicit index) data selecting method which means that we have to pass the name of the row or column which we want to select.
 - This method includes the last element of the range passed in it.
