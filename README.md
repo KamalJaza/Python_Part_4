@@ -18,7 +18,7 @@
 - Show the data fro the top ot from the bottom using data.head() or data.tail()
 - Display all the information about dataset using data,info()
 - Check missing value and count it using data.isnull().sum()
-# Exploration the Information in Data
+## Exploration the Information in Data
 - The number of rows using data.shape()
 - The name of the columns using data.column()
 - The index using data.index()
