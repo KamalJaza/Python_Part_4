@@ -50,3 +50,11 @@ Python offers several plotting libraries, namely Matplotlib, Seaborn and many ot
 - It works with entire datasets.
 - Seaborn is considerably more organized and functional than Matplotlib and treats the entire dataset as a solitary unit.
 - Seaborn has more inbuilt themes and is mainly used for statistical analysis.
+
+## Line Chart
+
+A Line chart is a graph that represents information as a series of data points connected by a straight line. In line charts, each data point or marker is plotted and connected with a line or curve.
+
+## Bar Chart
+
+When you have categorical data, you can represent it with a bar graph. A bar graph plots data with the help of bars, which represent value on the y-axis and category on the x-axis. Bar graphs use bars with varying heights to show the data which belongs to a specific category.
