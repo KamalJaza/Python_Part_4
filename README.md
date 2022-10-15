@@ -11,3 +11,18 @@
 - The iloc() function is an indexed-based (implicit index) selecting method which means that we have to pass an integer index in the method to select a specific row/column.
 - This method does not include the last element of the range passed in it.
 - iloc() does not accept the boolean data unlike loc().
+
+
+## Data Preparation and Exploration
+- Call the Dataset using data.read_csv()
+- Show the data fro the top ot from the bottom using data.head() or data.tail()
+- Display all the information about dataset using data,info()
+- Check missing value and count it using data.isnull().sum()
+# Exploration the Information in Data
+- The number of rows using data.shape()
+- The name of the columns using data.column()
+- The index using data.index()
+- Average using data.mean()
+- Minimum and maximum value from the data using data.min() or data.max
+- Mode of the data using data.mode()
+- View the unique data from some column and know the count of it
