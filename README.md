@@ -1,5 +1,11 @@
 # Python-week-4
 # Pandas
+Pandas is a fast, powerful, flexible and easy to use open source data analysis and manipulation tool, built on top of the Python programming language. Pandas is defined as an open-source library that provides high-performance data manipulation in Python. The name of Pandas is derived from the word Panel Data, which means an Econometrics from Multidimensional data. It is used for data analysis in Python and developed by Wes McKinney in 2008.
+Pandas has 2 objects namely dataframe and series.
+## Object Series
+Object series have one data dimension. Do not have a column name because it only have one column and have an index.
+- Implicit Index, implicit index is the default index. we can define an index called an explicit index and it must be equal to the number of data.
+##
 ## loc() and iloc()
 - loc() and iloc() are essential Pandas methods used for filtering, selecting, and manipulating data. They are quick, fast, easy to read, and sometimes interchangeable.
 - loc() and iloc() method are used to overcome inconsistencies in calling data.
